@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Graph/obj
+/Graph/bin/Debug/netstandard2.0
+/Graph/Graph.cs
+/Graph/.vs/Graph
+/.vs/Graph/v16
+/Graph.Tests/bin/Debug/netcoreapp3.1
+/Graph.Tests/obj
+/SubtitleTimeshift/obj
+/SubtitleTimeshift.Tests/obj
