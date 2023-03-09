@@ -1,0 +1,10 @@
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\obj\Debug\netstandard2.0\SolutionForSubtitleTimeshift.csproj.AssemblyReference.cache
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\obj\Debug\netstandard2.0\SolutionForSubtitleTimeshift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\obj\Debug\netstandard2.0\SolutionForSubtitleTimeshift.AssemblyInfoInputs.cache
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\obj\Debug\netstandard2.0\SolutionForSubtitleTimeshift.AssemblyInfo.cs
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\obj\Debug\netstandard2.0\SolutionForSubtitleTimeshift.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\bin\Debug\netstandard2.0\SolutionForSubtitleTimeshift.deps.json
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\bin\Debug\netstandard2.0\SolutionForSubtitleTimeshift.dll
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\bin\Debug\netstandard2.0\SolutionForSubtitleTimeshift.pdb
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\obj\Debug\netstandard2.0\SolutionForSubtitleTimeshift.dll
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForSubtitleTimeshift\obj\Debug\netstandard2.0\SolutionForSubtitleTimeshift.pdb

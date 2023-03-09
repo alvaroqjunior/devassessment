@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\SolutionForSubtitleTimeshift\SolutionForSubtitleTimeshift.csproj" />
     <ProjectReference Include="..\SubtitleTimeshift\SubtitleTimeshift.csproj" />
   </ItemGroup>
 

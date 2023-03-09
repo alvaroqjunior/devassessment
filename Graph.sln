@@ -1,15 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30406.217
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph", "Graph\Graph.csproj", "{8EC8D9AA-B44C-4E84-8BD9-0A01F4E58D19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph.Tests", "Graph.Tests\Graph.Tests.csproj", "{84B2B65C-8A56-4B93-81F8-F91655718B7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph.Tests", "Graph.Tests\Graph.Tests.csproj", "{84B2B65C-8A56-4B93-81F8-F91655718B7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtitleTimeshift", "SubtitleTimeshift\SubtitleTimeshift.csproj", "{C28AD78D-D6E5-4D4D-9BC9-9AF5813E1D1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtitleTimeshift", "SubtitleTimeshift\SubtitleTimeshift.csproj", "{C28AD78D-D6E5-4D4D-9BC9-9AF5813E1D1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtitleTimeshift.Tests", "SubtitleTimeshift.Tests\SubtitleTimeshift.Tests.csproj", "{36DF31D8-E677-4864-A0B7-21EC9E49CD64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtitleTimeshift.Tests", "SubtitleTimeshift.Tests\SubtitleTimeshift.Tests.csproj", "{36DF31D8-E677-4864-A0B7-21EC9E49CD64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionForSubtitleTimeshift", "SolutionForSubtitleTimeshift\SolutionForSubtitleTimeshift.csproj", "{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{36DF31D8-E677-4864-A0B7-21EC9E49CD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36DF31D8-E677-4864-A0B7-21EC9E49CD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36DF31D8-E677-4864-A0B7-21EC9E49CD64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
