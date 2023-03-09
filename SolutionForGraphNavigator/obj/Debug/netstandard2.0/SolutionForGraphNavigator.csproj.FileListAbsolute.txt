@@ -1,0 +1,10 @@
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\bin\Debug\netstandard2.0\SolutionForGraphNavigator.deps.json
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\bin\Debug\netstandard2.0\SolutionForGraphNavigator.dll
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\bin\Debug\netstandard2.0\SolutionForGraphNavigator.pdb
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\obj\Debug\netstandard2.0\SolutionForGraphNavigator.csproj.AssemblyReference.cache
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\obj\Debug\netstandard2.0\SolutionForGraphNavigator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\obj\Debug\netstandard2.0\SolutionForGraphNavigator.AssemblyInfoInputs.cache
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\obj\Debug\netstandard2.0\SolutionForGraphNavigator.AssemblyInfo.cs
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\obj\Debug\netstandard2.0\SolutionForGraphNavigator.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\obj\Debug\netstandard2.0\SolutionForGraphNavigator.dll
+C:\Users\Administrador\anddevassessment\devassessment\SolutionForGraphNavigator\obj\Debug\netstandard2.0\SolutionForGraphNavigator.pdb

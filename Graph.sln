@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubtitleTimeshift.Tests", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionForSubtitleTimeshift", "SolutionForSubtitleTimeshift\SolutionForSubtitleTimeshift.csproj", "{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionForGraphNavigator", "SolutionForGraphNavigator\SolutionForGraphNavigator.csproj", "{5293A128-4228-49AB-B95D-B93202079E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BBB9ABB-B1DC-46E3-8A02-BB5ED12CEA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5293A128-4228-49AB-B95D-B93202079E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5293A128-4228-49AB-B95D-B93202079E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5293A128-4228-49AB-B95D-B93202079E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5293A128-4228-49AB-B95D-B93202079E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

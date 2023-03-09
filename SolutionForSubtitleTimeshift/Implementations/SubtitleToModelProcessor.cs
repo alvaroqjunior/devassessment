@@ -12,8 +12,6 @@ namespace SolutionForSubtitleTimeshift.Implementations
 {
   public class SubtitleToModelProcessor : ISubtitleToModelProcessor
   {
-    //private int orderSectionCounter = 0;
-
     public async Task<IEnumerable<SubtitleModel>> GenerateModel(Stream stream, Encoding encoding, int buffersize, bool leaveOpen)
     {
       //var endFromPreviousSection = TimeSpan.Zero;
@@ -33,7 +31,6 @@ namespace SolutionForSubtitleTimeshift.Implementations
             subtitleModel.Order = int.Parse(sectionOrder);
             (subtitleModel.Start, subtitleModel.End) = await ExtractSubtitleTimeSpan(streamReader);
             subtitleModel.Text = await ExtractSubtitleText(streamReader);
-
 
             //if (!isTimeSpanInSync(endFromPreviousSection, subtitleModel.Start, subtitleModel.End))
             //  throw new InvalidDataException("Invalid Data: Date is out of sync.");
