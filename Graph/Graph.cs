@@ -37,10 +37,8 @@ namespace Graph
                 var visited = new HashSet<T>();
                 var path = new List<T>();
 
-                // Chama o método que encontra as rotas possíveis, passando o observador e os valores iniciais
                 FindAllPossiblesRoutes(source, destination, visited, path, observer);
 
-                // Emite o sinal de conclusão
                 observer.OnCompleted();
 
                 // Retorna um Action que será chamado quando o Observable for descartado
@@ -48,22 +46,17 @@ namespace Graph
             });
         }
 
-        // Método recursivo que encontra as rotas possíveis entre um ponto de origem e um de destino
         private void FindAllPossiblesRoutes(T current, T target, HashSet<T> visited, List<T> path, IObserver<IEnumerable<T>> observer)
         {
-            
-            
             visited.Add(current);
             path.Add(current);
 
-            // Se o nó atual é o nó de destino, emite uma nova lista com o caminho percorrido
             if (current.Equals(target))
             {
                 observer.OnNext(new List<T>(path));
             }
             else if (graphConnectionsList.ContainsKey(current))
             {
-                // Senão, para cada vizinho do nó atual, se ele ainda não foi visitado, chama o método novamente passando-o como nó atual
                 foreach (var neighbor in graphConnectionsList[current])
                 {
                     if (!visited.Contains(neighbor))
@@ -71,7 +64,6 @@ namespace Graph
                 }
             }
 
-            // Remove o nó atual das listas de visitados e de caminho antes de retornar
             visited.Remove(current);
             path.RemoveAt(path.Count - 1);
         }
